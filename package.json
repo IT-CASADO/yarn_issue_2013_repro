@@ -1,0 +1,13 @@
+{
+  "name": "@casado/yarn-bug",
+  "description": "A project for showing yarn bugs",
+  "license": "MIT",
+  "author": "Daniel Casado",
+  "version": "0.0.2",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
