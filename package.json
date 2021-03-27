@@ -3,7 +3,7 @@
   "description": "A project for showing yarn bugs",
   "license": "MIT",
   "author": "Daniel Casado",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "files": [
     "dist"
   ],
